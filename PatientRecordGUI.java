@@ -23,7 +23,7 @@ import java.io.IOException;
 
 /****
  * 
- * @author Patricia Virgen ID17999166
+ * @author Patricia
  */
 
 public class PatientRecordGUI extends JPanel implements ListSelectionListener { // used interface for the JList
