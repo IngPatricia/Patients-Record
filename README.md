@@ -14,6 +14,7 @@ A class called "Patient" was provided to us (the students) to begin with. It cot
   - containsSymbols(String number) method was created 
   - main class was placed in a separe file in other file. 
   - ExtractToXML button added. 
+  - toString() method was overwritten
   
 
 
