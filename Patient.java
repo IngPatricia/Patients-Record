@@ -126,7 +126,7 @@ public class Patient {
         private JRadioButton otherButton;
 
 
-        // Check with Seth if that's what he requires
+       
         private boolean containsSymbols(String number) {
             String regex = "^[A-Za-z]+$";
             return number.matches(regex);
