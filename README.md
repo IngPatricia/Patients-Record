@@ -22,3 +22,8 @@ A class called "Patient" was provided to us (the students) to begin with. It cot
 This is what the class "PientsApplicationRunner" initially does (the starting point)
 ## Initial look
 ![initial panel ](https://user-images.githubusercontent.com/53887863/86080293-af07f480-bae6-11ea-8225-2fc4336a4d74.jpg)
+
+## Add an Patient button 
+<img width="474" alt="add a patience button " src="https://user-images.githubusercontent.com/53887863/90115225-e5a08280-dda7-11ea-9a8a-467e226d11bc.png">
+
+
